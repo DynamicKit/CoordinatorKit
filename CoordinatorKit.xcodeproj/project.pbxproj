@@ -57,11 +57,12 @@
 		DDA8DFB224BD79480078468C /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		DDA8DFB524BD8DE60078468C /* StoryboardedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryboardedViewController.swift; sourceTree = "<group>"; };
 		DDA8DFB724BD91030078468C /* CoordinatedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatedViewController.swift; sourceTree = "<group>"; };
-		DDA8DFBB24BD92370078468C /* website.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = website.yml; path = .github/workflows/website.yml; sourceTree = "<group>"; };
 		DDA8DFBC24BD924D0078468C /* CODEOWNERS */ = {isa = PBXFileReference; lastKnownFileType = text; path = CODEOWNERS; sourceTree = "<group>"; };
 		DDA8DFBD24BD924D0078468C /* CoordinatorKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = CoordinatorKit.podspec; sourceTree = "<group>"; };
 		DDA8DFBE24BD924D0078468C /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		DDA8DFBF24BD924D0078468C /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		DDE8ED0924BDC02400D3374E /* website.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = website.yml; sourceTree = "<group>"; };
+		DDE8ED0A24BDC02F00D3374E /* test.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = test.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,9 +190,19 @@
 		DDA8DFBA24BD922B0078468C /* Workflows */ = {
 			isa = PBXGroup;
 			children = (
-				DDA8DFBB24BD92370078468C /* website.yml */,
+				DDE8ED0824BDC02400D3374E /* workflows */,
 			);
 			name = Workflows;
+			sourceTree = "<group>";
+		};
+		DDE8ED0824BDC02400D3374E /* workflows */ = {
+			isa = PBXGroup;
+			children = (
+				DDE8ED0A24BDC02F00D3374E /* test.yml */,
+				DDE8ED0924BDC02400D3374E /* website.yml */,
+			);
+			name = workflows;
+			path = .github/workflows;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
