@@ -1,0 +1,418 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 12,
+      "symbol": "Storyboard",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 14,
+      "symbol": "Storyboard.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 16,
+      "symbol": "Storyboard.storyBoard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 20,
+      "symbol": "Storyboard.instantiate(id:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 24,
+      "symbol": "Storyboard.instantiate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 28,
+      "symbol": "Storyboard.instantiateInitial()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Models/Storyboard.swift",
+      "line": 32,
+      "symbol": "Storyboard.instantiateInitialStoryboarded()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 12,
+      "symbol": "Coordinator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 14,
+      "symbol": "Coordinator.childCoordinators",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 16,
+      "symbol": "Coordinator.navigationController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 23,
+      "symbol": "Coordinator.viewControllers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 26,
+      "symbol": "Coordinator.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 28,
+      "symbol": "Coordinator.push(_:hideTabbar:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 29,
+      "symbol": "Coordinator.pop(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 30,
+      "symbol": "Coordinator.pop(to:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 31,
+      "symbol": "Coordinator.popToRoot(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 33,
+      "symbol": "Coordinator.showModally(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 34,
+      "symbol": "Coordinator.show(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 35,
+      "symbol": "Coordinator.dismiss()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 39,
+      "symbol": "Coordinator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 41,
+      "symbol": "Coordinator.viewControllers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 46,
+      "symbol": "Coordinator.push(_:hideTabbar:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 50,
+      "symbol": "Coordinator.pop(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 58,
+      "symbol": "Coordinator.pop(to:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 66,
+      "symbol": "Coordinator.popToRoot(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 70,
+      "symbol": "Coordinator.showModally(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 76,
+      "symbol": "Coordinator.show(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Coordinator.swift",
+      "line": 81,
+      "symbol": "Coordinator.dismiss()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Instantiable.swift",
+      "line": 11,
+      "symbol": "Instantiable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Instantiable.swift",
+      "line": 13,
+      "symbol": "Instantiable.instantiate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 12,
+      "symbol": "Storyboarded",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 14,
+      "symbol": "Storyboarded.id",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 16,
+      "symbol": "Storyboarded.instantiate(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 18,
+      "symbol": "Storyboarded.push(fromNavigation:hideBottomBar:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 20,
+      "symbol": "Storyboarded.push(fromViewController:hideBottomBar:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 22,
+      "symbol": "Storyboarded.pop(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 24,
+      "symbol": "Storyboarded.modal(from:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 26,
+      "symbol": "Storyboarded.present(from:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 32,
+      "symbol": "Storyboarded",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 35,
+      "symbol": "Storyboarded.id",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 39,
+      "symbol": "Storyboarded.instantiate(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 43,
+      "symbol": "Storyboarded.push(fromNavigation:hideBottomBar:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 48,
+      "symbol": "Storyboarded.push(fromViewController:hideBottomBar:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 56,
+      "symbol": "Storyboarded.pop(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 64,
+      "symbol": "Storyboarded.modal(from:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/Protocols/Storyboarded.swift",
+      "line": 70,
+      "symbol": "Storyboarded.present(from:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 13,
+      "symbol": "CoordinatedViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 15,
+      "symbol": "CoordinatedViewController.coordinator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 17,
+      "symbol": "CoordinatedViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 21,
+      "symbol": "CoordinatedViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 25,
+      "symbol": "CoordinatedViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 29,
+      "symbol": "CoordinatedViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/CoordinatedViewController.swift",
+      "line": 33,
+      "symbol": "CoordinatedViewController.viewDidDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/StoryboardedViewController.swift",
+      "line": 12,
+      "symbol": "StoryboardedViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/StoryboardedViewController.swift",
+      "line": 14,
+      "symbol": "StoryboardedViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/StoryboardedViewController.swift",
+      "line": 18,
+      "symbol": "StoryboardedViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/StoryboardedViewController.swift",
+      "line": 22,
+      "symbol": "StoryboardedViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/StoryboardedViewController.swift",
+      "line": 26,
+      "symbol": "StoryboardedViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CoordinatorKit/CoordinatorKit/Source/ViewControllers/StoryboardedViewController.swift",
+      "line": 30,
+      "symbol": "StoryboardedViewController.viewDidDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/CoordinatorKit/CoordinatorKit"
+}
