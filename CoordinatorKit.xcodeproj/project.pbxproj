@@ -50,6 +50,7 @@
 		DD1BBC1E24BD644E0058B0FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD1BBC2124BD644E0058B0FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD1BBC2324BD644E0058B0FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDA0C4C824BFECB10081CB5F /* release.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = release.yml; sourceTree = "<group>"; };
 		DDA8DFA824BD6FAA0078468C /* Storyboarded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
 		DDA8DFAB24BD70990078468C /* Instantiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instantiable.swift; sourceTree = "<group>"; };
 		DDA8DFAE24BD70DE0078468C /* Storyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboard.swift; sourceTree = "<group>"; };
@@ -200,6 +201,7 @@
 			children = (
 				DDE8ED0A24BDC02F00D3374E /* test.yml */,
 				DDE8ED0924BDC02400D3374E /* website.yml */,
+				DDA0C4C824BFECB10081CB5F /* release.yml */,
 			);
 			name = workflows;
 			path = .github/workflows;
